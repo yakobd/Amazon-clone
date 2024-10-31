@@ -52,6 +52,8 @@
 }
 
 .login_signInButton {
+      display: grid;
+  place-items: center;
   border: none;
   background: #f0c14b;
   border-radius: 5px;
@@ -71,6 +73,8 @@
 }
 
 .create_account_Button {
+  display: grid;
+  place-items: center;
   border: none;
   border-radius: 5px;
   width: 100%;
